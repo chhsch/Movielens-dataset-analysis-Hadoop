@@ -22,8 +22,7 @@ This script analyzes movie ratings from the MovieLens 100k dataset using Apache 
 7. **Join Data**: Join the high-rated movies with their metadata.
 8. **Order Movies**: Order the resulting movies by their release time.
 9. **Output Results**: Output the ordered list of movies.
-[Image: Oldest five-star movie]
-
+![alt text](old.png)
 ## Execution
 To execute the script, use the following command in the Apache Pig environment:
 
