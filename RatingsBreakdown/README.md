@@ -25,7 +25,8 @@ def reducer(self, key, values):
     ```bash
     python RatingsBreakdown.py -r hadoop --hadoop-streaming-jar /user/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar u.data
     ```
-
+3. Output Results:
+![alt text](MapReduce.png)
 ## Usage
 
 The provided script, `RatingsBreakdown.py`, can be used to analyze the dataset stored in HDFS. Ensure that the Hadoop streaming JAR path is correctly specified when running the script.
